@@ -1,0 +1,92 @@
+
+
+body{
+background-image: url("bg.png");
+    background-repeat: repeat;
+}
+table#sumtabell {
+/*    text-align:center; */
+	margin-left:auto; 
+	margin-right:auto; 
+	color: white;
+	font-size: 20px;
+	font-family: Fantasy;
+	width: 450px;
+}
+#head {
+        width: 700px;
+        height: auto;
+        background: #75af7f;
+        text-align: center;
+        margin: auto;
+        color: white;
+        font-size: 18px;
+        font-family: Fantasy;
+        border-radius: 30px 30px 0px 0px;
+	padding-bottom 30px;
+	margin-top: 20px;
+}
+#headu {
+        width: 700px;
+        height: auto;
+        background: #75af7f;
+        text-align: center;
+        margin: auto;
+        color: white;
+        font-size: 15px;
+        font-family: Fantasy;
+        border-radius: 0px 0px 30px 30px;
+        margin-bottom: 30px;
+	
+}
+
+#sum {
+	
+	border-radius: 30px 30px 0px 0px;
+	width: 700px;
+	height: auto;
+	background: #75af7f;
+	text-align: center;
+	margin:	auto;
+	color: white;
+	font-size: 20px;
+	font-family: Fantasy;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+
+
+#song {
+	
+	width: 700px;
+	height: auto;
+	background: #75af7f;
+	text-align: center;
+	margin:	auto;
+	color: white;
+	font-size: 18px;
+	font-family: Fantasy;
+	padding-bottom: 20px;
+	border-radius: 0px 0px 30px 30px;
+	margin-bottom: 20px;
+}
+
+#tid {
+	
+	width: 700px;
+	height: auto;
+	background: #75af7f;
+	text-align: center;
+	margin:	auto;
+	color: white;
+	font-size: 20px;
+	font-family: Fantasy;
+}
+
+#curve_chart {
+	width: 1000px;
+	height: 600px;
+	margin:	auto;
+	background: #75af7f;
+	border-radius: 30px 30px 30px 30px;
+}
